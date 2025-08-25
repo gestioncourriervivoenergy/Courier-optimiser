@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Microsoft Forms] -->|Réponses| B[Flow 1 - Nouveau Formulaire]
     B -->|Insertion données| C[(Excel Online - OneDrive/SharePoint)]
